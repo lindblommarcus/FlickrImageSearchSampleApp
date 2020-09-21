@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlickrSearchApp</string>
+    <string name="search_field_hint">Search…</string>
+    <string name="permissions_rationale">This app need permissions to continue</string>
+    <string name="load_images">Load</string>
+    <string name="no_results">No results</string>
+    <string name="title">Title</string>
+</resources>
